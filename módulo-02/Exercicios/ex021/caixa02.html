@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Grouping Tags</title>
+    <style>
+        body{
+            font-family: sans-serif;
+            background-color: gray;
+        }
+
+        header{
+            background-color: lightblue;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 10px;
+            
+        }
+
+        nav{
+            background-color: #706e6e;
+            box-shadow: 3px 4px black;
+        }
+
+        nav > a{
+            text-decoration: none;
+            color: white;
+            font-weight: bold;
+            margin-left: 40px;
+            margin-right: 30px;
+        }
+
+        nav > a:hover{
+            text-decoration: underline;
+        }
+        main{
+            background-color: lightgreen;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 10px;
+            box-shadow: 4px 4px 9px 0px rgba(0, 0, 0, 0.37);
+        }
+
+        article{
+            background-color: lightgray;
+            
+        }
+
+        article > aside{
+            background-color: rgb(226, 216, 216);
+            
+        }
+
+        aside > p{
+            margin: auto;
+        }
+
+        footer{
+            background-color: black;
+            padding: 1px;
+            margin: 10px;
+            text-align: center;
+            color: white;
+        }
+       
+        footer > p{
+            margin: 0px;
+        }
+
+        div#Bola{
+            height: 100px;
+            width: 100px;
+            margin: 10px;
+            background-color: white;
+            border-radius: 50%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Meu site</h1>
+        <nav>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>
+            <a href="#">Link</a>        
+        </nav>       
+    </header>
+    <main>
+        <section id="Assuntos">
+            <h2>Assuntos</h2>
+           <ol>
+               
+                    <li><a href="#">Politica</a></li>
+                    <li><a href="#">Esportes
+                    <li><a href="#">Noticias</a></li>
+               
+           </ol>
+        </section>
+        <section id="Noticias">
+            <article>
+                <h2>Explosão em RJ</h2>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquam quam veritatis nesciunt et animi vero sit modi quos deserunt ea recusandae omnis voluptate, magnam soluta quis impedit ut sequi vel!</p>
+                <aside>
+                    <p>Desenvolvido por José Martins da Silva</p>
+                </aside>
+            </article>
+
+        </section>
+    </main>
+    <footer>
+        <p>Site Desenvolvido pelo Lucas</p>
+    </footer>
+    <div id="Bola">
+
+    </div>
+</body>
+</html>

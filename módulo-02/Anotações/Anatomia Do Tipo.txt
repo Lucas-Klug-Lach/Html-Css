@@ -1,0 +1,44 @@
+16:55 30/05/2024
+
+			Tipografia
+
+
+
+1.Anotomia do Tipo
+	
+     1.Altura-X
+     2.Altura das maiúsculas
+     3.Ascendente
+    4.Descendente
+
+     A soma de todos os valores dão o corpo 
+
+     A.Parte Geométrica
+
+       1.Haste
+       2.Filete
+       3.Arco
+       4.Esporão
+       5.Terminal
+       6.Vértice
+  
+     B.Parte do Nosso corpo
+
+       1.Braço
+       2.Perna
+       3.Pé
+       4.Espinha
+       5.Barriga
+       6.Olho
+       7.Orelha
+       8.Cauda
+
+      C.Categarias de Fontes
+
+       1.serifa
+       2.Sans-Serif
+       3.Monoespaçadas
+       4.Hadwriting
+       5.Display
+
+Capítulo 14 Aula 2       		

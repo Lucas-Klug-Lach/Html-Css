@@ -1,0 +1,28 @@
+15:45 31/05/2024
+
+	Tamanho de fonte e suas medidas
+
+           medidas Absolutas
+           cm,mm,in polegada,px,pt,pc
+
+           Medidas Relativas
+           em,ex,rm,vw,vh,%
+
+            Use em e px
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Capítulo 14 Aula 04

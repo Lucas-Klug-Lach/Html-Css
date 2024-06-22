@@ -1,0 +1,7 @@
+16:19 01/06/2024
+		Personalizando Links
+
+	# = id
+	.  =  class
+	: = pseudo-class
+	:: = pseudo-element

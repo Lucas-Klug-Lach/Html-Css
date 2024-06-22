@@ -1,0 +1,44 @@
+30/05/2024	
+		
+		Harmonia de Cores
+
+1.Circulo Cromático
+	
+	*Vamos considerar 12 cores
+
+	*O circulo Cromático é usado para harmonia de cores
+	
+	*A cores SÃO MUITO IMPORTANTES PARA UM SITE BONITO
+
+      A.Cores primárias
+
+	*Amarelo,Azul,Vermelho
+	
+       B.Cores Secundárias
+
+               *Verde,Laranja,Violeta
+
+         C.Cores Terciárias/Tons Pastéis
+
+                *Amarelo-esverdeado
+                *Amarelo-alaranjado
+                *Vermelho-alaranjado
+                *Vermelho-arroxeado
+                *Azul-Arroxeado
+                *Azul-esverdeado
+
+2.Temperatura de Cores
+	
+	A.Cores Frias
+
+	B.Cores Quentes
+
+3.Cores Complementares
+
+	*Violeta contrasta com o Amarelo
+	*Vermelho contrasta como o Verde
+	*Azul contrasta com o Laranja
+               
+
+
+Capítulo 13 aula 3

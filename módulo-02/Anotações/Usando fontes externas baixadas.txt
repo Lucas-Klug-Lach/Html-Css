@@ -1,0 +1,18 @@
+19:57 31/05/2024
+
+                                           Usando fontes externas baixadas
+
+	Tipos de Format()
+ 	
+	1.Opentype(otf)
+	2.Truetype(ttf)
+	3.embedded-opentype
+	4.truetype-att
+
+
+
+
+
+
+
+Capítulo 14 aula 07
