@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Formulários</title>
+</head>
+<body>
+    <h1>Teste de Formulários</h1>
+    <form action="cadastro.php">
+        
+        <fieldset>
+            
+            <legend>Nome</legend>
+            
+            <label for="inome">Nome: </label>
+            <input type="text" name="nome" id="inome" required>
+
+        </fieldset>
+
+        <fieldset>
+
+            <legend>Idade e Email</legend>
+
+             <label for="iano">Idade: </label>
+             <input type="number" name="Idade" id="iano" min="0" required max="105"><br>
+
+            <label for="iemail">E-Mail: </label> 
+            <input type="email" name="Email" id="iemail" required>
+        </fieldset>
+
+
+        <fieldset>
+
+            <legend>Sexo</legend>
+
+            <input type="radio" name="sexo" id="isxmas" checked>
+            <label for="isxmas">Masculino</label><br>
+
+            <input type="radio" name="sexo" id="isxfem">
+            <label for="isxfem">Feminino</label>
+
+        </fieldset>
+        
+        <fieldset>
+            <legend>Esportes Favoritos</legend>
+            
+            <input type="checkbox" name="Esporte" id="F1">
+            <label for="F1">Fórmula 1</label><br>
+
+            <input type="checkbox" name="Esporte" id="Fut">
+            <label for="Fut">Futebol</label><br>
+
+            <input type="checkbox" name="Esporte" id="bas">
+            <label for="bas">Basquete</label><br>
+
+            <input type="checkbox" name="Esporte" id="atle">
+            <label for="atle">Atletismo</label><br>
+
+            <input type="checkbox" name="Esporte" id="ska">
+            <label for="ska">Skate</label><br>
+            
+            <input type="checkbox" name="Esporte" id="bol">
+            <label for="bol">Boliche</label><br>
+
+        </fieldset>
+
+        <p>
+            <input type="submit" value="Enviar">
+            <input type="reset" value="Limpar">
+        </p>
+
+    </form>
+</body>
+</html>
