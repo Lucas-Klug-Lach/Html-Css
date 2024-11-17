@@ -1,0 +1,4 @@
+15:08 17/11/2024
+
+O output não serve para enviar nada só serve para mostrar algo na tela.
+para conseguir somar algo com o output todos as tags envolviudadas precisam do codigo em javascript
